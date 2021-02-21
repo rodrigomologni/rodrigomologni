@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=informational)
+
 [![Rodrigo Mologni's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigomologni)](https://github.com/anuraghazra/github-readme-stats)
