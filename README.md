@@ -12,8 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Projects
-
-- **[CVVideoPlayerLite](https://github.com/rodrigomologni/CVVideoPlayerLite)** - A lightweight OpenCV video player designed to facilitate frame analysis
-- **[PyVista](https://github.com/pyvista/pyvista)** - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
