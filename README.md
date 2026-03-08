@@ -13,9 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Rodrigo! 👋
+# Hi there, I'm Rodrigo! 👋
 
-### 💻 Technical Stack
+I am a **Research and Development Engineer** specializing in **Scientific Visualization**.
+With a **PhD in Electrical Engineering from Unicamp**, my work focuses on the intersection of high-performance computing, 3D rendering, and software architecture.
+My expertise lies in developing tools that translate complex scientific data into intuitive visual experiences. I have extensive experience with:
+
+- **Medical Imaging:** Processing and rendering volumetric data for diagnostic and treatment planning purposes.
+- **Engineering Simulations:** Visualizing mechanical waves and petroleum reservoir simulation data to support advanced studies in solid mechanics and petroleum engineering.
+
+## 💻 Technical Stack
 
 | Category | Technologies |
 | :--- | :--- |
