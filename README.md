@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Rodrigo! 👋
 
 I am a **Research and Development Engineer** specializing in **Scientific Visualization**.
-With a **PhD in Electrical Engineering from Unicamp**, my work focuses on the intersection of high-performance computing, 3D rendering, and software architecture.
+With a **PhD in Electrical Engineering from Unicamp**, my work focuses on interactive 3D graphics rendering, digital image processing, and visualization software systems architecture.
 My expertise lies in developing tools that translate complex scientific data into intuitive visual experiences. I have extensive experience with:
 
 - **Medical Imaging:** Processing and rendering volumetric data for diagnostic and treatment planning purposes.
