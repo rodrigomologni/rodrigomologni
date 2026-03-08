@@ -26,7 +26,7 @@ I have extensive experience with:
 - **Medical Imaging:** Processing and rendering volumetric data for diagnostic and treatment planning purposes.
 - **Engineering Simulations:** Visualizing mechanical waves and petroleum reservoir simulation data to support advanced studies in solid mechanics and petroleum engineering.
 
-### 💻 Technical Stack
+### 💻 Hard Skills
 
 | **Category** | **Technologies** |
 | :--- | :--- |
